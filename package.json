@@ -22,7 +22,9 @@
       "eslint --cache --fix"
     ]
   },
-  "dependencies": {},
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5"
+  },
   "devDependencies": {
     "@types/chai": "^4.3.4",
     "@types/chai-as-promised": "^7.1.5",
