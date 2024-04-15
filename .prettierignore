@@ -1,0 +1,7 @@
+**/node_modules/
+**/dist/
+**/out/
+**/.env
+**/.vscode/*
+!**/.vscode/launch.json
+!**/.vscode/tasks.json
